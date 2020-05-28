@@ -1,0 +1,7 @@
+{
+  "name": "ShareTime",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

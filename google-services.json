@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702220613146",
+    "firebase_url": "https://sharetime-6e38f.firebaseio.com",
+    "project_id": "sharetime-6e38f",
+    "storage_bucket": "sharetime-6e38f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702220613146:android:671f9fb1d8ee983d",
+        "android_client_info": {
+          "package_name": "com.Temor.ShareTime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702220613146-65c9bnlmf33o7s4nogc7uplla2ggbng0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Temor.ShareTime",
+            "certificate_hash": "482b50e33b96e2666037235aa14c6f7b6fc747a6"
+          }
+        },
+        {
+          "client_id": "702220613146-aqeco7p49ul4m0bbqe92s2nmem72ic78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3nFC6o0aydfs4GU98AkAkmNoxUZpH7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702220613146-aqeco7p49ul4m0bbqe92s2nmem72ic78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
